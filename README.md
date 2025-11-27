@@ -82,7 +82,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-## ✔️ Summary
+##  Summary
 
 This project demonstrates:
 - Clean full-stack design  
