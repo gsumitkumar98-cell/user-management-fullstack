@@ -36,7 +36,7 @@ Backend runs at: **http://localhost:4000**
 
 ---
 
-## API Endpoints (Plain Format)
+## API Endpoints
 
 GET /api/users
 → Returns the list of all users.
