@@ -76,12 +76,6 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-##  Time Spent
-
-**~2.5 to 3 hours**
-
----
-
 ##  Summary
 
 This project demonstrates:
